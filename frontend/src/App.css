@@ -1,0 +1,335 @@
+#root {
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #f5f7fb;
+}
+
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  background: #f5f7fb;
+}
+
+.sidebar-inner {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 16px 18px;
+  background: #fff;
+}
+
+.brand-lockup {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 4px 8px 30px;
+}
+
+.brand-mark {
+  width: 42px !important;
+  height: 42px !important;
+  border-radius: 13px !important;
+  color: #fff !important;
+  background: linear-gradient(135deg, #3157d5, #7c5ce7) !important;
+}
+
+.nav-section-label {
+  color: #94a0b4;
+  font-size: 10px !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.13em !important;
+  padding: 0 12px 10px;
+}
+
+.nav-item {
+  min-height: 46px;
+  border-radius: 10px !important;
+  margin-bottom: 5px;
+  color: #64748b !important;
+}
+
+.nav-item .MuiListItemIcon-root {
+  min-width: 38px;
+  color: inherit;
+}
+
+.nav-item .MuiListItemText-primary {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.nav-item.Mui-selected {
+  background: #eef2ff !important;
+  color: #3157d5 !important;
+}
+
+.nav-item.Mui-selected:hover {
+  background: #e6ebff !important;
+}
+
+.sidebar-bottom {
+  margin-top: auto;
+  padding: 24px 8px 0;
+}
+
+.main-column {
+  flex: 1;
+  min-width: 0;
+}
+
+.topbar {
+  color: #17243a !important;
+  background: rgba(255, 255, 255, 0.94) !important;
+  border-bottom: 1px solid #e8ecf4;
+  backdrop-filter: blur(10px);
+}
+
+.topbar-toolbar {
+  min-height: 76px !important;
+  padding-inline: 32px !important;
+}
+
+.connection-button {
+  color: #34435c !important;
+  border: 1px solid #e2e8f0 !important;
+  background: #fff !important;
+  white-space: nowrap;
+}
+
+.page-content {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.page-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 2px;
+}
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.stat-card,
+.content-card {
+  border: 1px solid #e8ecf4;
+  border-radius: 16px !important;
+  box-shadow: 0 2px 8px rgba(20, 38, 75, 0.025) !important;
+}
+
+.stat-card {
+  min-width: 0;
+  padding: 22px;
+}
+
+.content-card {
+  padding: 24px;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(320px, 0.9fr);
+  gap: 16px;
+}
+
+.campaign-card {
+  background: linear-gradient(135deg, #fff 0%, #f7f9ff 100%);
+}
+
+.campaign-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.7fr);
+  gap: 16px;
+  align-items: start;
+}
+
+.status-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+
+.status-ok {
+  background: #16856b;
+  box-shadow: 0 0 0 4px #e4f7ef;
+}
+
+.status-pending {
+  background: #d99a2b;
+  box-shadow: 0 0 0 4px #fff4dd;
+}
+
+.status-error {
+  background: #d64545;
+  box-shadow: 0 0 0 4px #ffeded;
+}
+
+.result-panel {
+  max-height: 560px;
+  overflow: auto;
+  padding: 18px;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  background: #f8fafc;
+}
+
+.json-output {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  margin: 0;
+  color: #24334b;
+  font-family: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+  font-size: 13px;
+  line-height: 1.65;
+}
+
+@media (max-width: 1200px) {
+  .stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .dashboard-grid,
+  .campaign-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 700px) {
+  .page-content {
+    padding: 20px 14px;
+  }
+
+  .topbar-toolbar {
+    padding-inline: 12px !important;
+  }
+
+  .page-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .stat-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .content-card,
+  .stat-card {
+    padding: 18px;
+  }
+
+  .connection-button {
+    min-width: 0;
+    padding-inline: 8px !important;
+    font-size: 11px !important;
+  }
+}
+
+/* Dashboard layout refinements */
+.page-content {
+  max-width: 1600px;
+  padding: 28px 32px;
+}
+
+.topbar-toolbar {
+  min-height: 68px !important;
+  padding-inline: 28px !important;
+}
+
+.page-heading {
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.page-heading h4 {
+  font-size: clamp(1.7rem, 2.3vw, 2.3rem);
+  line-height: 1.2;
+}
+
+/* Compact, consistent KPI cards */
+.stat-grid {
+  gap: 16px;
+}
+
+.stat-card {
+  padding: 20px;
+  min-height: 170px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.stat-card h4 {
+  font-size: clamp(1.7rem, 2vw, 2.2rem);
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.stat-card .MuiTypography-body2 {
+  line-height: 1.5;
+}
+
+.stat-card .MuiTypography-caption {
+  display: block;
+  line-height: 1.5;
+  max-width: 220px;
+}
+
+/* Main content cards */
+.content-card {
+  padding: 24px;
+}
+
+.dashboard-grid,
+.campaign-layout {
+  gap: 20px;
+}
+
+/* Improve status indicator alignment */
+.connection-button {
+  min-height: 42px;
+  font-size: 13px !important;
+}
+
+@media (max-width: 1200px) {
+  .page-content {
+    padding: 24px;
+  }
+
+  .stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .page-content {
+    padding: 18px 14px;
+  }
+
+  .page-heading {
+    align-items: flex-start;
+  }
+
+  .stat-card {
+    min-height: 145px;
+  }
+
+  .content-card {
+    padding: 18px;
+  }
+}

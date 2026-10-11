@@ -1,0 +1,12 @@
+
+{
+  "weights": {
+    "audience_fit": 0.30,
+    "engagement_quality": 0.20,
+    "brand_affinity": 0.20,
+    "historical_performance": 0.20,
+    "cost_effectiveness": 0.10
+  },
+  "minimum_followers": 1000,
+  "maximum_budget_utilization": 1.0
+}

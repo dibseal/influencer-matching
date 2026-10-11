@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+faker
+pyarrow
+pydantic-settings
+python-dotenv
+openai
+pytest
+httpx
+sentence-transformers
+huggingface-hub>=0.34.0,<1.0

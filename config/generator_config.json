@@ -1,0 +1,15 @@
+
+{
+  "seed": 42,
+  "output_dir": "data/synthetic",
+  "formats": ["csv", "parquet"],
+  "record_counts": {
+    "influencers": 5000,
+    "audience_segments": 15000,
+    "brands": 100,
+    "products": 500,
+    "brand_affinity": 10000,
+    "campaigns": 2000,
+    "campaign_performance": 10000
+  }
+}

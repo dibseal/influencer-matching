@@ -1,0 +1,501 @@
+product_id,brand_id,product_name,category,price,target_age_min,target_age_max
+PR000001,BR00091,Diverse user-facing intranet,Beauty,909.49,30,38
+PR000002,BR00081,Reactive tertiary interface,Beauty,702.71,30,52
+PR000003,BR00008,Realigned 24/7 budgetary management,Home,273.21,27,55
+PR000004,BR00030,Compatible system-worthy collaboration,Gaming,969.48,27,52
+PR000005,BR00009,Quality-focused 5thgeneration hub,Lifestyle,780.96,24,38
+PR000006,BR00005,Reduced neutral circuit,Food,719.72,20,37
+PR000007,BR00043,Optional clear-thinking analyzer,Fashion,454.87,26,53
+PR000008,BR00010,Integrated high-level utilization,Gaming,279.52,28,46
+PR000009,BR00066,Balanced heuristic database,Travel,105.43,25,49
+PR000010,BR00031,Synergized dynamic secured line,Beauty,903.58,29,54
+PR000011,BR00036,Customer-focused heuristic time-frame,Travel,461.22,28,39
+PR000012,BR00086,Realigned incremental process improvement,Travel,210.34,19,37
+PR000013,BR00063,User-friendly coherent encoding,Fashion,312.9,29,49
+PR000014,BR00028,Diverse context-sensitive installation,Home,583.43,24,36
+PR000015,BR00070,Assimilated context-sensitive support,Gaming,185.01,22,46
+PR000016,BR00017,Managed zero tolerance installation,Technology,858.05,19,49
+PR000017,BR00093,Synchronized user-facing workforce,Fashion,760.93,24,46
+PR000018,BR00074,Fully-configurable encompassing complexity,Fitness,722.27,18,41
+PR000019,BR00074,Total bi-directional implementation,Fitness,437.77,18,41
+PR000020,BR00061,Automated methodical definition,Beauty,631.04,23,52
+PR000021,BR00032,Exclusive logistical hardware,Skincare,588.26,22,60
+PR000022,BR00061,Integrated discrete definition,Beauty,653.35,23,52
+PR000023,BR00053,Assimilated stable core,Fashion,93.6,28,55
+PR000024,BR00025,Open-architected full-range focus group,Food,421.65,26,55
+PR000025,BR00013,Cloned zero administration focus group,Fashion,51.2,28,51
+PR000026,BR00013,Monitored secondary migration,Fashion,499.05,28,51
+PR000027,BR00085,Open-architected systematic monitoring,Food,336.56,22,35
+PR000028,BR00056,Managed 4thgeneration budgetary management,Travel,153.08,21,55
+PR000029,BR00046,Fundamental context-sensitive paradigm,Travel,112.37,23,55
+PR000030,BR00055,Fundamental 5thgeneration benchmark,Food,591.77,24,53
+PR000031,BR00053,Right-sized intermediate hardware,Fashion,178.89,28,55
+PR000032,BR00060,Upgradable zero tolerance functionalities,Gaming,925.87,21,37
+PR000033,BR00094,Optional real-time migration,Fitness,585.25,20,44
+PR000034,BR00007,Customizable human-resource orchestration,Technology,353.4,27,54
+PR000035,BR00087,Ergonomic eco-centric analyzer,Technology,595.01,28,53
+PR000036,BR00084,Triple-buffered intermediate ability,Fitness,32.58,22,39
+PR000037,BR00083,Programmable national software,Fashion,958.97,23,56
+PR000038,BR00013,Up-sized user-facing support,Fashion,487.48,28,51
+PR000039,BR00008,Synchronized dedicated hierarchy,Home,784.91,27,55
+PR000040,BR00052,Optional asymmetric secured line,Skincare,91.9,28,35
+PR000041,BR00094,Managed regional functionalities,Fitness,491.79,20,44
+PR000042,BR00044,Switchable bottom-line success,Fitness,495.8,19,43
+PR000043,BR00014,Innovative motivating function,Fitness,938.45,23,56
+PR000044,BR00032,Synchronized incremental Graphic Interface,Skincare,576.01,22,60
+PR000045,BR00025,Open-architected tangible frame,Food,478.75,26,55
+PR000046,BR00025,Reactive clear-thinking core,Food,274.31,26,55
+PR000047,BR00069,Operative static implementation,Lifestyle,338.25,25,35
+PR000048,BR00058,Synergistic value-added conglomeration,Home,525.47,24,49
+PR000049,BR00018,Seamless non-volatile framework,Home,444.52,29,36
+PR000050,BR00055,Open-architected neutral ability,Food,31.4,24,53
+PR000051,BR00024,Innovative executive database,Fitness,828.03,23,58
+PR000052,BR00036,Optional zero tolerance paradigm,Travel,897.2,28,39
+PR000053,BR00060,Robust solution-oriented Graphic Interface,Gaming,148.85,21,37
+PR000054,BR00032,Persistent leadingedge intranet,Skincare,558.5,22,60
+PR000055,BR00010,Synergistic didactic migration,Gaming,117.49,28,46
+PR000056,BR00057,Phased user-facing concept,Technology,675.52,25,46
+PR000057,BR00071,Switchable attitude-oriented forecast,Beauty,288.42,30,40
+PR000058,BR00013,Profound stable productivity,Fashion,662.83,28,51
+PR000059,BR00007,Secured full-range array,Technology,729.72,27,54
+PR000060,BR00084,Versatile disintermediate service-desk,Fitness,770.96,22,39
+PR000061,BR00070,Integrated directional workforce,Gaming,116.66,22,46
+PR000062,BR00002,Exclusive client-server algorithm,Skincare,916.85,26,46
+PR000063,BR00012,Balanced dynamic leverage,Skincare,237.91,20,59
+PR000064,BR00097,Seamless zero administration archive,Technology,47.04,25,44
+PR000065,BR00031,Persevering intangible product,Beauty,559.3,29,54
+PR000066,BR00022,Re-engineered content-based structure,Skincare,377.21,27,44
+PR000067,BR00053,Total human-resource methodology,Fashion,831.49,28,55
+PR000068,BR00063,Open-architected dynamic circuit,Fashion,810.17,29,49
+PR000069,BR00062,Streamlined system-worthy ability,Skincare,323.97,26,47
+PR000070,BR00028,Versatile zero administration benchmark,Home,953.37,24,36
+PR000071,BR00052,Vision-oriented interactive definition,Skincare,298.01,28,35
+PR000072,BR00008,Enhanced tangible model,Home,519.91,27,55
+PR000073,BR00022,Persistent actuating open architecture,Skincare,263.41,27,44
+PR000074,BR00049,Fully-configurable bottom-line knowledgebase,Lifestyle,936.68,21,52
+PR000075,BR00001,Devolved maximized secured line,Beauty,172.96,19,55
+PR000076,BR00050,Progressive next generation policy,Gaming,54.46,26,38
+PR000077,BR00034,Intuitive web-enabled intranet,Fitness,440.75,29,44
+PR000078,BR00059,Seamless uniform middleware,Lifestyle,992.45,18,38
+PR000079,BR00037,Optimized neutral knowledge user,Technology,892.76,24,38
+PR000080,BR00055,Diverse value-added leverage,Food,751.12,24,53
+PR000081,BR00090,Organized empowering system engine,Gaming,891.88,29,48
+PR000082,BR00094,Fully-configurable scalable focus group,Fitness,894.51,20,44
+PR000083,BR00072,Visionary zero-defect model,Skincare,523.67,21,45
+PR000084,BR00085,Pre-emptive responsive encoding,Food,322.77,22,35
+PR000085,BR00092,Grass-roots leadingedge archive,Skincare,774.29,24,53
+PR000086,BR00063,Universal executive encoding,Fashion,665.04,29,49
+PR000087,BR00020,Future-proofed full-range functionalities,Gaming,379.92,21,51
+PR000088,BR00025,Quality-focused attitude-oriented challenge,Food,103.52,26,55
+PR000089,BR00038,Distributed discrete info-mediaries,Home,749.32,26,47
+PR000090,BR00028,Team-oriented coherent strategy,Home,269.84,24,36
+PR000091,BR00008,Extended asymmetric instruction set,Home,937.45,27,55
+PR000092,BR00075,Open-source full-range moratorium,Food,248.56,28,36
+PR000093,BR00095,Persistent intangible approach,Food,131.53,21,42
+PR000094,BR00070,Expanded intangible info-mediaries,Gaming,832.8,22,46
+PR000095,BR00008,Visionary optimal standardization,Home,161.75,27,55
+PR000096,BR00096,Ameliorated well-modulated orchestration,Travel,187.48,26,51
+PR000097,BR00041,Multi-tiered mission-critical ability,Beauty,603.39,30,46
+PR000098,BR00008,Multi-channeled exuding system engine,Home,875.82,27,55
+PR000099,BR00007,Networked intangible monitoring,Technology,204.47,27,54
+PR000100,BR00075,User-friendly user-facing moratorium,Food,317.22,28,36
+PR000101,BR00062,Robust directional matrix,Skincare,779.63,26,47
+PR000102,BR00065,Face-to-face encompassing Internet solution,Food,972.11,25,51
+PR000103,BR00068,Pre-emptive 4thgeneration info-mediaries,Home,505.73,28,42
+PR000104,BR00021,Mandatory static service-desk,Beauty,152.46,20,54
+PR000105,BR00008,Open-architected uniform concept,Home,23.8,27,55
+PR000106,BR00066,Persistent clear-thinking process improvement,Travel,237.36,25,49
+PR000107,BR00011,Public-key 4thgeneration infrastructure,Beauty,140.5,24,44
+PR000108,BR00024,Reverse-engineered non-volatile protocol,Fitness,680.88,23,58
+PR000109,BR00009,Assimilated attitude-oriented project,Lifestyle,130.61,24,38
+PR000110,BR00077,Optimized client-driven Local Area Network,Technology,511.27,29,42
+PR000111,BR00009,Enterprise-wide actuating firmware,Lifestyle,697.32,24,38
+PR000112,BR00087,Multi-tiered fresh-thinking data-warehouse,Technology,585.31,28,53
+PR000113,BR00031,Persevering fresh-thinking Graphical User Interface,Beauty,207.78,29,54
+PR000114,BR00052,Virtual homogeneous focus group,Skincare,806.08,28,35
+PR000115,BR00016,Versatile intangible extranet,Travel,718.25,23,40
+PR000116,BR00073,Configurable methodical adapter,Fashion,741.59,30,57
+PR000117,BR00032,User-friendly needs-based application,Skincare,139.75,22,60
+PR000118,BR00075,Monitored directional projection,Food,132.52,28,36
+PR000119,BR00077,Cloned zero-defect projection,Technology,928.29,29,42
+PR000120,BR00006,Balanced web-enabled algorithm,Travel,403.6,24,60
+PR000121,BR00080,Fully-configurable dedicated adapter,Gaming,307.94,24,55
+PR000122,BR00011,Secured coherent encoding,Beauty,493.7,24,44
+PR000123,BR00054,De-engineered methodical secured line,Fitness,666.24,28,52
+PR000124,BR00085,Customizable non-volatile data-warehouse,Food,956.07,22,35
+PR000125,BR00075,Persistent tangible extranet,Food,293.58,28,36
+PR000126,BR00073,Visionary holistic concept,Fashion,925.56,30,57
+PR000127,BR00067,Robust real-time synergy,Technology,34.61,19,49
+PR000128,BR00041,Universal bifurcated time-frame,Beauty,559.65,30,46
+PR000129,BR00034,Diverse fault-tolerant benchmark,Fitness,637.64,29,44
+PR000130,BR00027,Reduced 4thgeneration function,Technology,114.84,22,47
+PR000131,BR00086,Re-engineered systematic implementation,Travel,148.94,19,37
+PR000132,BR00092,Object-based transitional customer loyalty,Skincare,424.92,24,53
+PR000133,BR00041,Compatible optimizing solution,Beauty,966.57,30,46
+PR000134,BR00031,Self-enabling dynamic benchmark,Beauty,600.08,29,54
+PR000135,BR00034,Total zero administration framework,Fitness,933.69,29,44
+PR000136,BR00051,Synergized radical workforce,Beauty,806.32,28,40
+PR000137,BR00017,Decentralized non-volatile toolset,Technology,472.71,19,49
+PR000138,BR00086,Balanced grid-enabled monitoring,Travel,786.92,19,37
+PR000139,BR00083,Optimized stable hub,Fashion,27.66,23,56
+PR000140,BR00039,Cloned motivating project,Lifestyle,118.05,22,40
+PR000141,BR00059,Mandatory 24/7 instruction set,Lifestyle,831.13,18,38
+PR000142,BR00041,Pre-emptive bi-directional Internet solution,Beauty,798.85,30,46
+PR000143,BR00097,Multi-lateral scalable knowledgebase,Technology,240.31,25,44
+PR000144,BR00010,Triple-buffered coherent Internet solution,Gaming,535.46,28,46
+PR000145,BR00002,Enhanced upward-trending model,Skincare,609.96,26,46
+PR000146,BR00059,Streamlined encompassing pricing structure,Lifestyle,869.06,18,38
+PR000147,BR00080,Public-key zero-defect matrices,Gaming,607.08,24,55
+PR000148,BR00073,Persistent intermediate superstructure,Fashion,418.45,30,57
+PR000149,BR00013,Reverse-engineered encompassing Graphic Interface,Fashion,380.44,28,51
+PR000150,BR00010,Fully-configurable background focus group,Gaming,431.62,28,46
+PR000151,BR00069,Organized dynamic system engine,Lifestyle,655.41,25,35
+PR000152,BR00028,Persistent non-volatile pricing structure,Home,868.82,24,36
+PR000153,BR00065,Synchronized homogeneous Graphical User Interface,Food,459.36,25,51
+PR000154,BR00034,Assimilated modular Graphic Interface,Fitness,255.36,29,44
+PR000155,BR00017,Enterprise-wide mobile data-warehouse,Technology,244.3,19,49
+PR000156,BR00045,Multi-channeled empowering Graphical User Interface,Food,748.55,27,56
+PR000157,BR00009,Grass-roots radical standardization,Lifestyle,818.4,24,38
+PR000158,BR00032,Grass-roots next generation access,Skincare,114.23,22,60
+PR000159,BR00048,Programmable content-based artificial intelligence,Home,75.89,29,42
+PR000160,BR00037,Front-line uniform installation,Technology,598.49,24,38
+PR000161,BR00021,Pre-emptive next generation task-force,Beauty,154.71,20,54
+PR000162,BR00057,Front-line system-worthy leverage,Technology,826.42,25,46
+PR000163,BR00070,Stand-alone transitional matrix,Gaming,317.23,22,46
+PR000164,BR00091,Organized 3rdgeneration array,Beauty,152.43,30,38
+PR000165,BR00039,Implemented directional initiative,Lifestyle,921.76,22,40
+PR000166,BR00079,Team-oriented dynamic function,Lifestyle,173.88,19,49
+PR000167,BR00084,Switchable optimal hub,Fitness,291.87,22,39
+PR000168,BR00068,Phased neutral moderator,Home,162.08,28,42
+PR000169,BR00002,Monitored interactive synergy,Skincare,124.34,26,46
+PR000170,BR00086,Reactive full-range help-desk,Travel,30.94,19,37
+PR000171,BR00071,Total logistical flexibility,Beauty,64.84,30,40
+PR000172,BR00039,Integrated eco-centric emulation,Lifestyle,182.9,22,40
+PR000173,BR00085,Decentralized uniform core,Food,62.85,22,35
+PR000174,BR00014,Intuitive bottom-line synergy,Fitness,595.23,23,56
+PR000175,BR00018,Public-key well-modulated solution,Home,683.91,29,36
+PR000176,BR00034,Enterprise-wide content-based data-warehouse,Fitness,399.69,29,44
+PR000177,BR00015,User-centric mission-critical focus group,Food,324.81,25,46
+PR000178,BR00014,Up-sized optimizing task-force,Fitness,509.48,23,56
+PR000179,BR00096,Progressive radical forecast,Travel,876.25,26,51
+PR000180,BR00071,Cross-platform content-based frame,Beauty,852.62,30,40
+PR000181,BR00020,Focused high-level conglomeration,Gaming,53.04,21,51
+PR000182,BR00035,Innovative 24/7 strategy,Food,189.68,18,47
+PR000183,BR00037,Public-key clear-thinking focus group,Technology,244.38,24,38
+PR000184,BR00078,Balanced actuating neural-net,Home,256.89,23,52
+PR000185,BR00027,Implemented tangible capacity,Technology,575.52,22,47
+PR000186,BR00092,Sharable web-enabled matrix,Skincare,422.1,24,53
+PR000187,BR00044,Customer-focused 24/7 orchestration,Fitness,58.76,19,43
+PR000188,BR00027,Horizontal methodical matrices,Technology,379.88,22,47
+PR000189,BR00088,Organic global contingency,Home,528.52,27,47
+PR000190,BR00082,Business-focused eco-centric matrices,Skincare,110.66,23,45
+PR000191,BR00034,Customizable asymmetric initiative,Fitness,835.12,29,44
+PR000192,BR00065,Pre-emptive asynchronous orchestration,Food,61.44,25,51
+PR000193,BR00063,Self-enabling systemic application,Fashion,925.59,29,49
+PR000194,BR00033,Distributed coherent workforce,Fashion,108.12,23,43
+PR000195,BR00007,Re-contextualized exuding artificial intelligence,Technology,845.14,27,54
+PR000196,BR00012,Fully-configurable bottom-line open architecture,Skincare,903.63,20,59
+PR000197,BR00082,Virtual intangible portal,Skincare,979.77,23,45
+PR000198,BR00055,Right-sized regional definition,Food,804.01,24,53
+PR000199,BR00036,Vision-oriented multi-state implementation,Travel,781.68,28,39
+PR000200,BR00006,Organized leadingedge framework,Travel,646.06,24,60
+PR000201,BR00001,Reverse-engineered interactive function,Beauty,781.21,19,55
+PR000202,BR00043,Re-contextualized regional approach,Fashion,143.21,26,53
+PR000203,BR00099,Seamless user-facing attitude,Lifestyle,540.71,22,38
+PR000204,BR00017,Virtual demand-driven product,Technology,519.08,19,49
+PR000205,BR00082,Extended empowering protocol,Skincare,859.0,23,45
+PR000206,BR00034,Configurable cohesive encoding,Fitness,468.17,29,44
+PR000207,BR00021,Enhanced neutral archive,Beauty,391.24,20,54
+PR000208,BR00095,Diverse 24hour installation,Food,643.17,21,42
+PR000209,BR00057,Organized system-worthy policy,Technology,273.8,25,46
+PR000210,BR00071,Phased explicit alliance,Beauty,148.37,30,40
+PR000211,BR00091,Focused executive strategy,Beauty,483.1,30,38
+PR000212,BR00055,Horizontal tangible knowledgebase,Food,422.72,24,53
+PR000213,BR00072,Compatible systemic emulation,Skincare,240.24,21,45
+PR000214,BR00002,Fundamental zero tolerance utilization,Skincare,373.84,26,46
+PR000215,BR00015,Self-enabling optimizing protocol,Food,372.73,25,46
+PR000216,BR00010,Exclusive interactive budgetary management,Gaming,334.22,28,46
+PR000217,BR00089,Quality-focused directional project,Lifestyle,385.67,27,39
+PR000218,BR00020,Distributed encompassing circuit,Gaming,688.89,21,51
+PR000219,BR00070,Compatible analyzing concept,Gaming,303.91,22,46
+PR000220,BR00005,Integrated radical synergy,Food,949.37,20,37
+PR000221,BR00048,Re-contextualized executive intranet,Home,917.18,29,42
+PR000222,BR00075,Decentralized maximized solution,Food,486.1,28,36
+PR000223,BR00071,Innovative tangible initiative,Beauty,335.08,30,40
+PR000224,BR00019,Future-proofed motivating moratorium,Lifestyle,540.08,29,56
+PR000225,BR00056,Proactive leadingedge artificial intelligence,Travel,850.07,21,55
+PR000226,BR00017,Right-sized 6thgeneration Internet solution,Technology,656.06,19,49
+PR000227,BR00006,User-centric fresh-thinking portal,Travel,806.35,24,60
+PR000228,BR00040,Function-based 4thgeneration array,Gaming,537.4,25,52
+PR000229,BR00047,Focused systematic orchestration,Technology,636.59,28,45
+PR000230,BR00006,Reverse-engineered 3rdgeneration task-force,Travel,295.27,24,60
+PR000231,BR00046,Synergistic encompassing orchestration,Travel,737.54,23,55
+PR000232,BR00027,Balanced well-modulated system engine,Technology,210.38,22,47
+PR000233,BR00088,Enhanced methodical model,Home,697.85,27,47
+PR000234,BR00032,Streamlined leadingedge focus group,Skincare,862.11,22,60
+PR000235,BR00086,Enterprise-wide optimal Internet solution,Travel,140.78,19,37
+PR000236,BR00014,Sharable mobile array,Fitness,618.24,23,56
+PR000237,BR00046,Phased grid-enabled installation,Travel,104.14,23,55
+PR000238,BR00100,Managed fresh-thinking secured line,Gaming,728.46,22,60
+PR000239,BR00072,Customer-focused cohesive groupware,Skincare,93.65,21,45
+PR000240,BR00053,Open-source system-worthy methodology,Fashion,936.58,28,55
+PR000241,BR00080,Horizontal stable initiative,Gaming,146.03,24,55
+PR000242,BR00096,Virtual neutral alliance,Travel,959.29,26,51
+PR000243,BR00020,Persevering background functionalities,Gaming,802.88,21,51
+PR000244,BR00031,Function-based fresh-thinking budgetary management,Beauty,597.75,29,54
+PR000245,BR00021,Visionary impactful migration,Beauty,784.8,20,54
+PR000246,BR00023,Adaptive stable moratorium,Fashion,797.16,18,60
+PR000247,BR00053,Persistent incremental application,Fashion,946.57,28,55
+PR000248,BR00004,Ergonomic multi-state hierarchy,Fitness,260.85,19,53
+PR000249,BR00023,Secured web-enabled methodology,Fashion,594.18,18,60
+PR000250,BR00095,Self-enabling leadingedge task-force,Food,104.1,21,42
+PR000251,BR00043,Business-focused demand-driven flexibility,Fashion,620.0,26,53
+PR000252,BR00053,Reactive clear-thinking forecast,Fashion,179.58,28,55
+PR000253,BR00086,Organic tangible matrix,Travel,569.3,19,37
+PR000254,BR00095,Decentralized 4thgeneration product,Food,576.71,21,42
+PR000255,BR00032,Robust disintermediate strategy,Skincare,471.33,22,60
+PR000256,BR00035,Diverse fault-tolerant neural-net,Food,527.41,18,47
+PR000257,BR00021,Advanced neutral installation,Beauty,766.28,20,54
+PR000258,BR00090,Cross-group directional budgetary management,Gaming,801.25,29,48
+PR000259,BR00014,Persistent bottom-line project,Fitness,497.23,23,56
+PR000260,BR00049,Distributed modular structure,Lifestyle,603.6,21,52
+PR000261,BR00005,Implemented multimedia strategy,Food,931.92,20,37
+PR000262,BR00061,Future-proofed intangible matrices,Beauty,128.54,23,52
+PR000263,BR00029,Phased dynamic knowledgebase,Lifestyle,125.93,25,39
+PR000264,BR00026,Reactive client-server info-mediaries,Travel,96.83,27,40
+PR000265,BR00059,Ergonomic radical migration,Lifestyle,661.28,18,38
+PR000266,BR00045,User-friendly client-driven architecture,Food,424.42,27,56
+PR000267,BR00040,Grass-roots zero administration utilization,Gaming,776.58,25,52
+PR000268,BR00030,Operative global toolset,Gaming,674.52,27,52
+PR000269,BR00029,Profit-focused encompassing ability,Lifestyle,340.3,25,39
+PR000270,BR00004,Horizontal uniform framework,Fitness,899.38,19,53
+PR000271,BR00085,Reverse-engineered optimal protocol,Food,764.91,22,35
+PR000272,BR00025,Pre-emptive coherent knowledge user,Food,277.83,26,55
+PR000273,BR00052,Public-key mission-critical hardware,Skincare,370.55,28,35
+PR000274,BR00043,Managed neutral task-force,Fashion,321.3,26,53
+PR000275,BR00036,Quality-focused homogeneous knowledgebase,Travel,166.04,28,39
+PR000276,BR00009,Inverse content-based standardization,Lifestyle,156.31,24,38
+PR000277,BR00099,Front-line object-oriented info-mediaries,Lifestyle,936.77,22,38
+PR000278,BR00036,Focused zero-defect installation,Travel,443.52,28,39
+PR000279,BR00045,Balanced foreground synergy,Food,389.49,27,56
+PR000280,BR00083,Phased tertiary workforce,Fashion,732.39,23,56
+PR000281,BR00066,Multi-tiered human-resource protocol,Travel,557.46,25,49
+PR000282,BR00052,Streamlined coherent methodology,Skincare,936.78,28,35
+PR000283,BR00087,Automated clear-thinking middleware,Technology,782.5,28,53
+PR000284,BR00069,Reverse-engineered full-range attitude,Lifestyle,484.58,25,35
+PR000285,BR00043,Organic bandwidth-monitored moderator,Fashion,382.6,26,53
+PR000286,BR00004,Persevering 24/7 success,Fitness,986.77,19,53
+PR000287,BR00015,Digitized incremental projection,Food,720.58,25,46
+PR000288,BR00034,Distributed asynchronous leverage,Fitness,951.68,29,44
+PR000289,BR00023,Fundamental global process improvement,Fashion,127.29,18,60
+PR000290,BR00075,Team-oriented hybrid projection,Food,852.03,28,36
+PR000291,BR00034,Configurable full-range service-desk,Fitness,640.7,29,44
+PR000292,BR00005,Public-key homogeneous functionalities,Food,130.7,20,37
+PR000293,BR00014,Self-enabling transitional task-force,Fitness,592.38,23,56
+PR000294,BR00077,Pre-emptive needs-based alliance,Technology,689.24,29,42
+PR000295,BR00056,Secured asymmetric encoding,Travel,22.18,21,55
+PR000296,BR00045,Self-enabling systemic forecast,Food,459.77,27,56
+PR000297,BR00094,Focused value-added array,Fitness,827.15,20,44
+PR000298,BR00041,Optional bandwidth-monitored task-force,Beauty,302.41,30,46
+PR000299,BR00056,Sharable tertiary attitude,Travel,463.96,21,55
+PR000300,BR00078,Organic composite solution,Home,447.89,23,52
+PR000301,BR00066,Innovative 4thgeneration analyzer,Travel,308.91,25,49
+PR000302,BR00015,Inverse analyzing frame,Food,919.26,25,46
+PR000303,BR00050,Multi-channeled holistic Internet solution,Gaming,783.48,26,38
+PR000304,BR00074,Digitized dynamic moderator,Fitness,119.48,18,41
+PR000305,BR00025,Open-source non-volatile software,Food,997.06,26,55
+PR000306,BR00033,Enterprise-wide composite conglomeration,Fashion,880.41,23,43
+PR000307,BR00006,Configurable reciprocal implementation,Travel,291.07,24,60
+PR000308,BR00091,Secured systemic encoding,Beauty,838.53,30,38
+PR000309,BR00056,Proactive optimal circuit,Travel,115.36,21,55
+PR000310,BR00001,Focused maximized productivity,Beauty,999.11,19,55
+PR000311,BR00067,Function-based logistical extranet,Technology,669.03,19,49
+PR000312,BR00069,Synchronized 24/7 website,Lifestyle,653.62,25,35
+PR000313,BR00088,Persistent executive service-desk,Home,99.54,27,47
+PR000314,BR00093,Quality-focused cohesive archive,Fashion,898.06,24,46
+PR000315,BR00095,Organic grid-enabled parallelism,Food,38.71,21,42
+PR000316,BR00095,Innovative scalable interface,Food,248.42,21,42
+PR000317,BR00086,Team-oriented eco-centric knowledgebase,Travel,151.59,19,37
+PR000318,BR00026,Innovative dedicated info-mediaries,Travel,779.0,27,40
+PR000319,BR00047,Polarized bi-directional encoding,Technology,206.22,28,45
+PR000320,BR00056,Multi-tiered object-oriented help-desk,Travel,911.53,21,55
+PR000321,BR00009,Re-engineered explicit standardization,Lifestyle,659.71,24,38
+PR000322,BR00086,Implemented 3rdgeneration protocol,Travel,45.8,19,37
+PR000323,BR00043,Object-based even-keeled access,Fashion,15.38,26,53
+PR000324,BR00080,Re-contextualized systemic time-frame,Gaming,61.14,24,55
+PR000325,BR00041,User-friendly actuating portal,Beauty,609.87,30,46
+PR000326,BR00085,User-friendly modular forecast,Food,803.47,22,35
+PR000327,BR00016,Vision-oriented discrete portal,Travel,246.17,23,40
+PR000328,BR00093,Multi-channeled directional productivity,Fashion,850.91,24,46
+PR000329,BR00039,Ergonomic regional extranet,Lifestyle,66.66,22,40
+PR000330,BR00065,Synergistic web-enabled success,Food,802.95,25,51
+PR000331,BR00040,Visionary stable software,Gaming,928.52,25,52
+PR000332,BR00086,Devolved responsive attitude,Travel,774.39,19,37
+PR000333,BR00053,Self-enabling secondary analyzer,Fashion,701.14,28,55
+PR000334,BR00042,Integrated zero tolerance intranet,Skincare,839.6,20,56
+PR000335,BR00052,Automated optimal hierarchy,Skincare,49.75,28,35
+PR000336,BR00090,Upgradable clear-thinking array,Gaming,209.76,29,48
+PR000337,BR00038,Implemented fresh-thinking synergy,Home,133.67,26,47
+PR000338,BR00071,Operative context-sensitive customer loyalty,Beauty,509.49,30,40
+PR000339,BR00017,De-engineered zero tolerance moratorium,Technology,747.74,19,49
+PR000340,BR00025,Multi-lateral multi-tasking middleware,Food,633.71,26,55
+PR000341,BR00054,Future-proofed composite extranet,Fitness,852.62,28,52
+PR000342,BR00086,Polarized explicit synergy,Travel,163.66,19,37
+PR000343,BR00049,Mandatory bifurcated Local Area Network,Lifestyle,737.27,21,52
+PR000344,BR00087,Compatible client-server system engine,Technology,201.11,28,53
+PR000345,BR00096,Face-to-face systematic success,Travel,278.05,26,51
+PR000346,BR00023,Synergistic hybrid website,Fashion,712.81,18,60
+PR000347,BR00079,Realigned high-level array,Lifestyle,980.4,19,49
+PR000348,BR00073,Object-based 24/7 firmware,Fashion,615.43,30,57
+PR000349,BR00039,Public-key bottom-line knowledgebase,Lifestyle,63.96,22,40
+PR000350,BR00052,Multi-layered systematic synergy,Skincare,620.15,28,35
+PR000351,BR00071,Synergistic empowering paradigm,Beauty,51.93,30,40
+PR000352,BR00001,Multi-tiered scalable hub,Beauty,885.3,19,55
+PR000353,BR00039,Customer-focused systematic emulation,Lifestyle,712.48,22,40
+PR000354,BR00037,Phased 4thgeneration process improvement,Technology,181.4,24,38
+PR000355,BR00027,Realigned fresh-thinking pricing structure,Technology,100.8,22,47
+PR000356,BR00056,Face-to-face secondary architecture,Travel,191.7,21,55
+PR000357,BR00075,Sharable maximized standardization,Food,980.23,28,36
+PR000358,BR00078,Innovative solution-oriented installation,Home,463.98,23,52
+PR000359,BR00084,Customizable client-driven analyzer,Fitness,786.24,22,39
+PR000360,BR00042,Automated exuding methodology,Skincare,640.04,20,56
+PR000361,BR00060,Customizable bandwidth-monitored encoding,Gaming,576.69,21,37
+PR000362,BR00057,Public-key client-driven info-mediaries,Technology,153.68,25,46
+PR000363,BR00057,Persevering holistic secured line,Technology,946.56,25,46
+PR000364,BR00087,User-friendly tangible moratorium,Technology,308.33,28,53
+PR000365,BR00028,Operative optimizing synergy,Home,582.24,24,36
+PR000366,BR00066,Upgradable coherent instruction set,Travel,702.78,25,49
+PR000367,BR00061,Streamlined bandwidth-monitored matrix,Beauty,652.74,23,52
+PR000368,BR00095,Seamless incremental focus group,Food,941.19,21,42
+PR000369,BR00022,Automated system-worthy hub,Skincare,156.95,27,44
+PR000370,BR00085,Extended leadingedge intranet,Food,513.27,22,35
+PR000371,BR00011,Front-line high-level attitude,Beauty,409.99,24,44
+PR000372,BR00037,Synergized holistic moratorium,Technology,479.43,24,38
+PR000373,BR00066,Stand-alone heuristic approach,Travel,128.03,25,49
+PR000374,BR00085,Object-based even-keeled core,Food,142.75,22,35
+PR000375,BR00082,Decentralized logistical array,Skincare,285.29,23,45
+PR000376,BR00080,Switchable didactic project,Gaming,311.66,24,55
+PR000377,BR00043,Sharable radical adapter,Fashion,433.62,26,53
+PR000378,BR00012,Business-focused zero tolerance groupware,Skincare,614.88,20,59
+PR000379,BR00097,Fully-configurable clear-thinking toolset,Technology,638.28,25,44
+PR000380,BR00031,Re-contextualized demand-driven architecture,Beauty,417.69,29,54
+PR000381,BR00087,Virtual neutral database,Technology,414.7,28,53
+PR000382,BR00040,Reverse-engineered didactic emulation,Gaming,225.45,25,52
+PR000383,BR00029,Managed zero-defect circuit,Lifestyle,592.42,25,39
+PR000384,BR00026,Right-sized 24hour focus group,Travel,323.87,27,40
+PR000385,BR00019,Digitized clear-thinking moratorium,Lifestyle,45.7,29,56
+PR000386,BR00004,Function-based context-sensitive budgetary management,Fitness,424.22,19,53
+PR000387,BR00006,Switchable 4thgeneration capacity,Travel,479.39,24,60
+PR000388,BR00032,Advanced heuristic utilization,Skincare,233.34,22,60
+PR000389,BR00061,Front-line optimizing Graphic Interface,Beauty,576.73,23,52
+PR000390,BR00079,Ameliorated context-sensitive firmware,Lifestyle,570.11,19,49
+PR000391,BR00099,Business-focused clear-thinking support,Lifestyle,704.98,22,38
+PR000392,BR00010,Operative multi-tasking budgetary management,Gaming,651.47,28,46
+PR000393,BR00059,User-friendly asymmetric leverage,Lifestyle,655.91,18,38
+PR000394,BR00054,Organized zero-defect hierarchy,Fitness,323.05,28,52
+PR000395,BR00081,Profound optimizing benchmark,Beauty,789.56,30,52
+PR000396,BR00074,Organized motivating definition,Fitness,553.65,18,41
+PR000397,BR00025,Seamless 6thgeneration superstructure,Food,437.1,26,55
+PR000398,BR00092,Switchable multi-state framework,Skincare,629.75,24,53
+PR000399,BR00090,Persevering secondary algorithm,Gaming,367.05,29,48
+PR000400,BR00050,Centralized mission-critical initiative,Gaming,517.61,26,38
+PR000401,BR00064,Optimized systemic benchmark,Fitness,739.34,19,54
+PR000402,BR00052,Pre-emptive transitional intranet,Skincare,887.54,28,35
+PR000403,BR00032,Compatible attitude-oriented Graphic Interface,Skincare,921.85,22,60
+PR000404,BR00019,Robust client-server architecture,Lifestyle,508.6,29,56
+PR000405,BR00084,De-engineered even-keeled process improvement,Fitness,525.07,22,39
+PR000406,BR00089,Sharable optimal neural-net,Lifestyle,801.87,27,39
+PR000407,BR00001,Universal fresh-thinking implementation,Beauty,321.31,19,55
+PR000408,BR00097,Right-sized multi-tasking frame,Technology,839.01,25,44
+PR000409,BR00099,Persevering motivating portal,Lifestyle,499.2,22,38
+PR000410,BR00014,Optional bandwidth-monitored utilization,Fitness,124.7,23,56
+PR000411,BR00100,Total bifurcated projection,Gaming,81.34,22,60
+PR000412,BR00055,Streamlined zero administration neural-net,Food,843.57,24,53
+PR000413,BR00029,Up-sized didactic Internet solution,Lifestyle,65.01,25,39
+PR000414,BR00023,Organized discrete installation,Fashion,287.81,18,60
+PR000415,BR00090,Mandatory logistical initiative,Gaming,340.79,29,48
+PR000416,BR00067,Operative upward-trending attitude,Technology,181.26,19,49
+PR000417,BR00060,Intuitive interactive functionalities,Gaming,320.75,21,37
+PR000418,BR00007,Synchronized eco-centric hub,Technology,745.27,27,54
+PR000419,BR00072,Distributed systemic leverage,Skincare,24.54,21,45
+PR000420,BR00032,Cloned background artificial intelligence,Skincare,828.9,22,60
+PR000421,BR00016,Cross-group intermediate attitude,Travel,857.98,23,40
+PR000422,BR00059,User-friendly user-facing hub,Lifestyle,378.54,18,38
+PR000423,BR00018,De-engineered next generation approach,Home,162.08,29,36
+PR000424,BR00060,Reverse-engineered next generation open architecture,Gaming,604.83,21,37
+PR000425,BR00086,Managed static capability,Travel,128.48,19,37
+PR000426,BR00068,Open-source heuristic secured line,Home,371.27,28,42
+PR000427,BR00072,Versatile interactive success,Skincare,958.84,21,45
+PR000428,BR00077,Business-focused executive policy,Technology,995.51,29,42
+PR000429,BR00041,Integrated heuristic benchmark,Beauty,774.38,30,46
+PR000430,BR00097,Re-engineered motivating data-warehouse,Technology,317.85,25,44
+PR000431,BR00057,Distributed stable matrices,Technology,690.79,25,46
+PR000432,BR00079,Face-to-face bi-directional hardware,Lifestyle,708.35,19,49
+PR000433,BR00093,Realigned holistic budgetary management,Fashion,393.96,24,46
+PR000434,BR00065,Virtual even-keeled orchestration,Food,644.48,25,51
+PR000435,BR00055,Face-to-face interactive open architecture,Food,20.62,24,53
+PR000436,BR00071,Visionary regional pricing structure,Beauty,216.97,30,40
+PR000437,BR00058,Synergistic secondary open architecture,Home,529.84,24,49
+PR000438,BR00021,Assimilated real-time protocol,Beauty,172.11,20,54
+PR000439,BR00096,Team-oriented encompassing algorithm,Travel,174.25,26,51
+PR000440,BR00061,Enterprise-wide encompassing standardization,Beauty,837.94,23,52
+PR000441,BR00058,Virtual fault-tolerant Graphical User Interface,Home,989.24,24,49
+PR000442,BR00034,Monitored 24hour contingency,Fitness,560.41,29,44
+PR000443,BR00097,Digitized non-volatile protocol,Technology,840.68,25,44
+PR000444,BR00032,Open-architected asymmetric circuit,Skincare,990.42,22,60
+PR000445,BR00082,User-centric scalable algorithm,Skincare,150.18,23,45
+PR000446,BR00036,Cross-group value-added moderator,Travel,453.76,28,39
+PR000447,BR00099,Extended homogeneous instruction set,Lifestyle,398.65,22,38
+PR000448,BR00100,Persevering global complexity,Gaming,89.25,22,60
+PR000449,BR00067,Multi-layered fault-tolerant success,Technology,757.78,19,49
+PR000450,BR00063,Inverse zero-defect open system,Fashion,439.44,29,49
+PR000451,BR00081,Right-sized attitude-oriented application,Beauty,474.63,30,52
+PR000452,BR00031,Distributed cohesive system engine,Beauty,159.17,29,54
+PR000453,BR00036,Secured actuating service-desk,Travel,189.12,28,39
+PR000454,BR00057,Configurable encompassing intranet,Technology,908.03,25,46
+PR000455,BR00010,Switchable interactive matrix,Gaming,54.2,28,46
+PR000456,BR00092,Robust leadingedge instruction set,Skincare,240.52,24,53
+PR000457,BR00037,Future-proofed didactic system engine,Technology,299.14,24,38
+PR000458,BR00031,Profound bifurcated hardware,Beauty,495.3,29,54
+PR000459,BR00035,Optional bifurcated forecast,Food,590.58,18,47
+PR000460,BR00043,Synergistic systematic parallelism,Fashion,498.36,26,53
+PR000461,BR00041,Pre-emptive multi-tasking secured line,Beauty,93.27,30,46
+PR000462,BR00070,Integrated 6thgeneration definition,Gaming,251.23,22,46
+PR000463,BR00011,Object-based radical approach,Beauty,845.15,24,44
+PR000464,BR00018,Adaptive demand-driven framework,Home,641.21,29,36
+PR000465,BR00020,Extended zero administration challenge,Gaming,652.66,21,51
+PR000466,BR00030,Virtual eco-centric frame,Gaming,673.5,27,52
+PR000467,BR00050,Inverse bottom-line ability,Gaming,765.27,26,38
+PR000468,BR00089,Proactive value-added Internet solution,Lifestyle,67.53,27,39
+PR000469,BR00020,Enhanced clear-thinking implementation,Gaming,372.94,21,51
+PR000470,BR00091,Public-key tertiary emulation,Beauty,544.13,30,38
+PR000471,BR00028,Profit-focused next generation secured line,Home,345.07,24,36
+PR000472,BR00009,Multi-channeled asynchronous infrastructure,Lifestyle,846.03,24,38
+PR000473,BR00054,User-centric 6thgeneration Internet solution,Fitness,487.75,28,52
+PR000474,BR00053,Ameliorated logistical archive,Fashion,770.94,28,55
+PR000475,BR00043,Intuitive object-oriented interface,Fashion,853.5,26,53
+PR000476,BR00070,Re-engineered impactful strategy,Gaming,509.74,22,46
+PR000477,BR00060,Sharable intangible frame,Gaming,910.46,21,37
+PR000478,BR00054,Customizable impactful adapter,Fitness,591.25,28,52
+PR000479,BR00008,Inverse composite website,Home,851.77,27,55
+PR000480,BR00027,Secured logistical solution,Technology,347.18,22,47
+PR000481,BR00054,Multi-lateral background Internet solution,Fitness,503.83,28,52
+PR000482,BR00050,Customer-focused dynamic Internet solution,Gaming,536.1,26,38
+PR000483,BR00099,Reverse-engineered impactful moderator,Lifestyle,113.93,22,38
+PR000484,BR00075,Configurable hybrid function,Food,404.57,28,36
+PR000485,BR00090,User-friendly global definition,Gaming,918.16,29,48
+PR000486,BR00003,Managed zero-defect concept,Fashion,634.52,23,57
+PR000487,BR00098,Compatible multimedia productivity,Home,185.73,30,37
+PR000488,BR00074,Customizable multi-tasking migration,Fitness,345.47,18,41
+PR000489,BR00049,Ergonomic zero-defect hardware,Lifestyle,199.69,21,52
+PR000490,BR00062,Monitored upward-trending project,Skincare,34.57,26,47
+PR000491,BR00001,Digitized disintermediate benchmark,Beauty,928.19,19,55
+PR000492,BR00046,Digitized eco-centric customer loyalty,Travel,453.73,23,55
+PR000493,BR00039,Enhanced real-time collaboration,Lifestyle,314.46,22,40
+PR000494,BR00097,Virtual well-modulated projection,Technology,602.49,25,44
+PR000495,BR00050,Compatible context-sensitive throughput,Gaming,17.24,26,38
+PR000496,BR00054,Self-enabling modular Local Area Network,Fitness,285.24,28,52
+PR000497,BR00069,Versatile non-volatile task-force,Lifestyle,706.0,25,35
+PR000498,BR00096,Reduced local software,Travel,637.43,26,51
+PR000499,BR00095,Re-contextualized secondary productivity,Food,981.99,21,42
+PR000500,BR00070,Secured fresh-thinking product,Gaming,624.15,22,46

@@ -1,0 +1,18 @@
+{
+  "campaigns_evaluated": 50,
+  "k": 10,
+  "metrics_by_model": [
+    {
+      "model": "semantic_matching",
+      "precision@10": 0.008,
+      "recall@10": 0.022333333333333334,
+      "ndcg@10": 0.02460707883684667
+    },
+    {
+      "model": "weighted_baseline",
+      "precision@10": 0.004,
+      "recall@10": 0.0125,
+      "ndcg@10": 0.005162883571758818
+    }
+  ]
+}

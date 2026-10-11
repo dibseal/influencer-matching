@@ -1,0 +1,101 @@
+brand_id,brand_name,primary_category,target_age_min,target_age_max,target_gender,brand_tone
+BR00001,"Rodriguez, Figueroa and Sanchez",Beauty,19,55,Male,Premium
+BR00002,Doyle Ltd,Skincare,26,46,All,Innovative
+BR00003,"Mcclain, Miller and Henderson",Fashion,23,57,All,Affordable
+BR00004,Davis and Sons,Fitness,19,53,All,Premium
+BR00005,"Guzman, Hoffman and Baldwin",Food,20,37,Male,Premium
+BR00006,"Gardner, Robinson and Lawrence",Travel,24,60,Male,Sustainable
+BR00007,Blake and Sons,Technology,27,54,All,Premium
+BR00008,"Henderson, Ramirez and Lewis",Home,27,55,All,Affordable
+BR00009,Garcia-James,Lifestyle,24,38,All,Premium
+BR00010,Abbott-Munoz,Gaming,28,46,Male,Affordable
+BR00011,Blair PLC,Beauty,24,44,Male,Sustainable
+BR00012,Dudley Group,Skincare,20,59,All,Sustainable
+BR00013,Arnold Ltd,Fashion,28,51,Male,Innovative
+BR00014,"Mcclure, Ward and Lee",Fitness,23,56,All,Affordable
+BR00015,Williams and Sons,Food,25,46,Male,Sustainable
+BR00016,Galloway-Wyatt,Travel,23,40,Female,Innovative
+BR00017,James Group,Technology,19,49,All,Affordable
+BR00018,"Flowers, Martin and Kelly",Home,29,36,Female,Premium
+BR00019,"Adams, Zuniga and Wong",Lifestyle,29,56,All,Sustainable
+BR00020,"Reid, Ferguson and Sanchez",Gaming,21,51,All,Innovative
+BR00021,Gray-Mayo,Beauty,20,54,Female,Innovative
+BR00022,"Watts, Robinson and Nguyen",Skincare,27,44,All,Sustainable
+BR00023,Perez Inc,Fashion,18,60,Male,Premium
+BR00024,Morales-Jones,Fitness,23,58,Female,Premium
+BR00025,"Walter, Edwards and Rios",Food,26,55,Male,Innovative
+BR00026,Wilkerson-Day,Travel,27,40,Male,Innovative
+BR00027,Baker and Sons,Technology,22,47,Male,Affordable
+BR00028,"Hoffman, Baker and Richards",Home,24,36,Male,Premium
+BR00029,"Ross, Robinson and Bright",Lifestyle,25,39,All,Affordable
+BR00030,"Snyder, Campos and Callahan",Gaming,27,52,Female,Premium
+BR00031,Burton Ltd,Beauty,29,54,All,Premium
+BR00032,Carlson-Cruz,Skincare,22,60,Female,Innovative
+BR00033,"Ferrell, Rice and Maddox",Fashion,23,43,Female,Innovative
+BR00034,Frazier Inc,Fitness,29,44,All,Innovative
+BR00035,"Dyer, Potter and Mack",Food,18,47,Female,Affordable
+BR00036,Rodriguez-Graham,Travel,28,39,Male,Innovative
+BR00037,Smith-Bowen,Technology,24,38,Male,Premium
+BR00038,"Baker, Mason and White",Home,26,47,Male,Affordable
+BR00039,Harrell LLC,Lifestyle,22,40,Male,Affordable
+BR00040,"Romero, Gonzalez and Brooks",Gaming,25,52,All,Sustainable
+BR00041,Ryan PLC,Beauty,30,46,Female,Innovative
+BR00042,George Group,Skincare,20,56,Male,Affordable
+BR00043,Rodriguez LLC,Fashion,26,53,Male,Innovative
+BR00044,Allen-Allen,Fitness,19,43,All,Affordable
+BR00045,"Arroyo, Miller and Tucker",Food,27,56,All,Innovative
+BR00046,Spence PLC,Travel,23,55,Female,Innovative
+BR00047,Anderson Group,Technology,28,45,All,Affordable
+BR00048,"Martin, Rose and Obrien",Home,29,42,Male,Innovative
+BR00049,Hickman Ltd,Lifestyle,21,52,All,Sustainable
+BR00050,"Harris, Collins and Carney",Gaming,26,38,Female,Sustainable
+BR00051,"Brooks, Lam and Hayes",Beauty,28,40,All,Innovative
+BR00052,Walker LLC,Skincare,28,35,All,Affordable
+BR00053,Chapman and Sons,Fashion,28,55,Male,Innovative
+BR00054,"Robinson, Jones and Welch",Fitness,28,52,Male,Sustainable
+BR00055,Jones Inc,Food,24,53,Male,Sustainable
+BR00056,Jones-Young,Travel,21,55,Female,Affordable
+BR00057,"Washington, Ryan and Cummings",Technology,25,46,All,Sustainable
+BR00058,"Johnston, Sanchez and Kennedy",Home,24,49,All,Premium
+BR00059,Lee-Davis,Lifestyle,18,38,All,Affordable
+BR00060,Gomez-Jenkins,Gaming,21,37,Male,Affordable
+BR00061,"Brown, Valdez and Lucas",Beauty,23,52,Male,Sustainable
+BR00062,Powell LLC,Skincare,26,47,Male,Premium
+BR00063,Wright and Sons,Fashion,29,49,Female,Sustainable
+BR00064,"West, Henderson and Ramirez",Fitness,19,54,Male,Sustainable
+BR00065,Baxter Inc,Food,25,51,Male,Innovative
+BR00066,Morton-Chase,Travel,25,49,Male,Premium
+BR00067,Williams PLC,Technology,19,49,Male,Premium
+BR00068,Novak and Sons,Home,28,42,Male,Innovative
+BR00069,Russell Group,Lifestyle,25,35,Male,Innovative
+BR00070,Hancock Inc,Gaming,22,46,All,Innovative
+BR00071,Gray Group,Beauty,30,40,Female,Affordable
+BR00072,House-Glover,Skincare,21,45,Female,Premium
+BR00073,Henderson-Bernard,Fashion,30,57,Male,Innovative
+BR00074,"Stanley, Tucker and Lee",Fitness,18,41,Male,Affordable
+BR00075,Novak PLC,Food,28,36,Male,Premium
+BR00076,"Daniels, Adkins and Brown",Travel,29,42,Male,Innovative
+BR00077,"Woods, Calhoun and Schmidt",Technology,29,42,Male,Affordable
+BR00078,Yu Inc,Home,23,52,All,Innovative
+BR00079,Jones Inc,Lifestyle,19,49,All,Premium
+BR00080,"Hensley, Powell and David",Gaming,24,55,Male,Innovative
+BR00081,"Sanchez, Wheeler and Harvey",Beauty,30,52,Female,Premium
+BR00082,Sandoval-Cunningham,Skincare,23,45,All,Innovative
+BR00083,Donovan-Harris,Fashion,23,56,Female,Affordable
+BR00084,"Edwards, Baker and Anderson",Fitness,22,39,All,Affordable
+BR00085,"Evans, Stewart and Walton",Food,22,35,Male,Premium
+BR00086,Smith PLC,Travel,19,37,All,Sustainable
+BR00087,"Ferrell, Jones and Lewis",Technology,28,53,All,Affordable
+BR00088,Anderson-Bailey,Home,27,47,All,Sustainable
+BR00089,Suarez LLC,Lifestyle,27,39,Male,Affordable
+BR00090,Moore-Bass,Gaming,29,48,Female,Sustainable
+BR00091,"Turner, Riggs and Roman",Beauty,30,38,All,Affordable
+BR00092,"Smith, Montoya and Evans",Skincare,24,53,Male,Innovative
+BR00093,"Garcia, Humphrey and Baker",Fashion,24,46,Female,Innovative
+BR00094,Newton and Sons,Fitness,20,44,Female,Sustainable
+BR00095,Campbell-Clark,Food,21,42,All,Affordable
+BR00096,Harris-Walters,Travel,26,51,All,Premium
+BR00097,Wagner-King,Technology,25,44,Female,Premium
+BR00098,Davis Group,Home,30,37,Male,Affordable
+BR00099,Williams-Cook,Lifestyle,22,38,Male,Affordable
+BR00100,Walsh LLC,Gaming,22,60,All,Premium
